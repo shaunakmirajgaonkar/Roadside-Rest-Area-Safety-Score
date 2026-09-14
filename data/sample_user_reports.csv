@@ -1,0 +1,37 @@
+report_id,rest_area_id,report_date,report_category,verification_status,verification_confidence_pct,severity_score,report_summary
+REP-0001,RA-008,2026-04-01,Lighting,Unverified,95,17,Sample anonymized operational report.
+REP-0002,RA-008,2026-02-02,Accessibility,Verified,87,40,Sample anonymized operational report.
+REP-0003,RA-009,2026-08-07,Crowding,Verified,91,83,Sample anonymized operational report.
+REP-0004,RA-016,2026-04-26,Emergency Support,Verified,67,22,Sample anonymized operational report.
+REP-0005,RA-004,2026-07-12,Emergency Support,Verified,84,16,Sample anonymized operational report.
+REP-0006,RA-004,2026-01-13,General Safety,Verified,61,41,Sample anonymized operational report.
+REP-0007,RA-007,2026-04-18,Emergency Support,Verified,82,33,Sample anonymized operational report.
+REP-0008,RA-009,2026-08-08,Lighting,Verified,90,22,Sample anonymized operational report.
+REP-0009,RA-002,2026-09-27,Lighting,Verified,70,31,Sample anonymized operational report.
+REP-0010,RA-014,2026-08-16,Sanitation,Verified,58,31,Sample anonymized operational report.
+REP-0011,RA-013,2026-01-13,Accessibility,Verified,73,64,Sample anonymized operational report.
+REP-0012,RA-016,2026-03-07,Accessibility,Verified,58,84,Sample anonymized operational report.
+REP-0013,RA-002,2026-06-02,Lighting,Unverified,85,74,Sample anonymized operational report.
+REP-0014,RA-006,2026-01-17,Lighting,Verified,59,86,Sample anonymized operational report.
+REP-0015,RA-003,2026-04-13,Lighting,Unverified,70,84,Sample anonymized operational report.
+REP-0016,RA-002,2026-02-14,General Safety,Unverified,91,76,Sample anonymized operational report.
+REP-0017,RA-011,2026-05-07,General Safety,Unverified,75,40,Sample anonymized operational report.
+REP-0018,RA-009,2026-07-05,General Safety,Unverified,74,68,Sample anonymized operational report.
+REP-0019,RA-011,2026-02-01,Emergency Support,Unverified,91,22,Sample anonymized operational report.
+REP-0020,RA-003,2026-09-07,Crowding,Verified,63,54,Sample anonymized operational report.
+REP-0021,RA-003,2026-04-12,Accessibility,Verified,83,79,Sample anonymized operational report.
+REP-0022,RA-010,2026-09-01,General Safety,Unverified,74,23,Sample anonymized operational report.
+REP-0023,RA-005,2026-05-04,Lighting,Unverified,90,29,Sample anonymized operational report.
+REP-0024,RA-009,2026-05-20,Sanitation,Unverified,76,36,Sample anonymized operational report.
+REP-0025,RA-009,2026-09-16,Accessibility,Verified,60,64,Sample anonymized operational report.
+REP-0026,RA-009,2026-01-01,Accessibility,Verified,95,43,Sample anonymized operational report.
+REP-0027,RA-006,2026-08-18,General Safety,Verified,90,11,Sample anonymized operational report.
+REP-0028,RA-004,2026-02-23,Sanitation,Unverified,57,57,Sample anonymized operational report.
+REP-0029,RA-005,2026-07-05,Lighting,Verified,78,15,Sample anonymized operational report.
+REP-0030,RA-012,2026-04-22,Sanitation,Unverified,61,55,Sample anonymized operational report.
+REP-0031,RA-014,2026-03-08,Sanitation,Verified,81,13,Sample anonymized operational report.
+REP-0032,RA-006,2026-06-26,Emergency Support,Unverified,70,44,Sample anonymized operational report.
+REP-0033,RA-006,2026-02-13,Lighting,Verified,69,35,Sample anonymized operational report.
+REP-0034,RA-015,2026-06-10,Sanitation,Verified,56,34,Sample anonymized operational report.
+REP-0035,RA-013,2026-06-09,Lighting,Verified,77,75,Sample anonymized operational report.
+REP-0036,RA-013,2026-09-11,Lighting,Verified,71,32,Sample anonymized operational report.

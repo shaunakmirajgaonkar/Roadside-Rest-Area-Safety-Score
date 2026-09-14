@@ -1,0 +1,33 @@
+inspection_id,rest_area_id,inspection_date,inspector_team,lighting_condition,sanitation_condition,accessibility_condition,emergency_support_condition,overall_condition,follow_up_status
+INS-0001,RA-009,2026-01-04,Team-5,Fair,Fair,Needs Review,Fair,Fair,Closed
+INS-0002,RA-004,2026-07-19,Team-2,Fair,Good,Needs Review,Fair,Good,Closed
+INS-0003,RA-007,2026-06-14,Team-1,Needs Review,Fair,Needs Review,Fair,Needs Review,Routine
+INS-0004,RA-010,2026-09-10,Team-4,Fair,Fair,Needs Review,Fair,Needs Review,Routine
+INS-0005,RA-007,2026-07-22,Team-4,Needs Review,Needs Review,Good,Needs Review,Needs Review,Follow-up Required
+INS-0006,RA-013,2026-09-27,Team-1,Fair,Fair,Good,Fair,Needs Review,Closed
+INS-0007,RA-011,2026-08-15,Team-4,Needs Review,Good,Needs Review,Fair,Needs Review,Routine
+INS-0008,RA-003,2026-05-17,Team-5,Fair,Good,Good,Needs Review,Fair,Routine
+INS-0009,RA-007,2026-03-01,Team-1,Good,Fair,Needs Review,Good,Fair,Follow-up Required
+INS-0010,RA-007,2026-07-16,Team-4,Good,Good,Needs Review,Needs Review,Good,Routine
+INS-0011,RA-014,2026-04-06,Team-5,Fair,Good,Needs Review,Good,Good,Follow-up Required
+INS-0012,RA-005,2026-08-22,Team-5,Needs Review,Needs Review,Fair,Fair,Needs Review,Closed
+INS-0013,RA-014,2026-09-15,Team-2,Needs Review,Fair,Fair,Fair,Good,Closed
+INS-0014,RA-009,2026-09-16,Team-2,Fair,Fair,Good,Needs Review,Fair,Routine
+INS-0015,RA-009,2026-06-11,Team-5,Good,Good,Good,Good,Fair,Closed
+INS-0016,RA-005,2026-04-03,Team-4,Fair,Fair,Needs Review,Fair,Fair,Routine
+INS-0017,RA-007,2026-07-13,Team-5,Needs Review,Good,Needs Review,Fair,Fair,Routine
+INS-0018,RA-012,2026-05-25,Team-4,Fair,Needs Review,Needs Review,Needs Review,Needs Review,Closed
+INS-0019,RA-008,2026-08-08,Team-3,Fair,Fair,Good,Fair,Fair,Closed
+INS-0020,RA-013,2026-03-27,Team-4,Good,Needs Review,Needs Review,Good,Fair,Closed
+INS-0021,RA-001,2026-02-21,Team-4,Good,Fair,Good,Good,Fair,Follow-up Required
+INS-0022,RA-011,2026-04-15,Team-3,Fair,Fair,Fair,Fair,Fair,Routine
+INS-0023,RA-016,2026-01-24,Team-5,Good,Fair,Good,Needs Review,Good,Closed
+INS-0024,RA-002,2026-01-08,Team-2,Good,Needs Review,Good,Good,Good,Follow-up Required
+INS-0025,RA-004,2026-04-15,Team-3,Fair,Good,Needs Review,Needs Review,Needs Review,Closed
+INS-0026,RA-004,2026-03-10,Team-1,Needs Review,Good,Fair,Needs Review,Needs Review,Follow-up Required
+INS-0027,RA-013,2026-04-03,Team-5,Needs Review,Needs Review,Good,Good,Needs Review,Follow-up Required
+INS-0028,RA-004,2026-01-12,Team-5,Fair,Needs Review,Fair,Good,Needs Review,Closed
+INS-0029,RA-011,2026-01-14,Team-4,Good,Fair,Fair,Needs Review,Fair,Closed
+INS-0030,RA-005,2026-07-06,Team-5,Needs Review,Fair,Needs Review,Needs Review,Fair,Follow-up Required
+INS-0031,RA-014,2026-05-11,Team-2,Good,Fair,Fair,Good,Fair,Closed
+INS-0032,RA-013,2026-06-01,Team-4,Fair,Good,Fair,Good,Fair,Follow-up Required

@@ -1,0 +1,10 @@
+# CSV Schema
+
+## sample_rest_areas.csv
+rest_area_id,rest_area_name,highway,direction,zone,rest_area_type,latitude,longitude,daily_visitors_estimate,lighting_score,sanitation_score,accessibility_score,crowding_score,emergency_support_score,verified_report_score,night_traffic_index,occupancy_index,incident_count_12m,response_time_min,cleaning_frequency_weekly,inspection_age_days
+
+## sample_user_reports.csv
+report_id,rest_area_id,report_date,report_category,verification_status,verification_confidence_pct,severity_score,report_summary
+
+## sample_inspections.csv
+inspection_id,rest_area_id,inspection_date,inspector_team,lighting_condition,sanitation_condition,accessibility_condition,emergency_support_condition,overall_condition,follow_up_status

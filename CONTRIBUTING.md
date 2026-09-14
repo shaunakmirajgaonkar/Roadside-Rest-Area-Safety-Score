@@ -1,0 +1,1 @@
+# Contributing\nIssues and pull requests are welcome.\n
